@@ -1,0 +1,15 @@
+Package: EucDist
+Type: Package
+Title: FInd Euclidean Distance between points with three coordinates
+Version: 0.1.0
+Authors@R: person("Samreen", "Nayyer-Qureshi", email = "samreen.nayyer.qureshi@gmail.com",
+      role = c("aut", "cre"))
+Description: This package includes the function EucDist which helps to calculate the 
+    Euclidean distance between two points. The points can have three coordinates.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/samreennq/EucDist
+RoxygenNote: 6.1.99.9001
+Suggests: 
+    testthat
